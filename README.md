@@ -1,6 +1,7 @@
 # Tableflow - Railway Template
-
 This example template to deploy a self-hosted version of [Tableflow](https://tableflow.com/). 
+
+**IMPORTANT**: This repository is fork of [Tableflow](https://github.com/tableflowhq/tableflow)'s official Repository. Since Tableflow code   doesn't support path based routing for admin-ui and viewer-ui we have added nginx configuration to support path based routing.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Zj8toL?referralCode=HT4TtK)
 
